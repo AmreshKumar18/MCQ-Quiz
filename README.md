@@ -1,1 +1,3 @@
 # MCQ-Quiz
+The Basic Program is MCQ Quiz Using Of C Language... 
+You Can Easily Understand The Code And Learn Using String Functions, Do-While, Switch-Case.
